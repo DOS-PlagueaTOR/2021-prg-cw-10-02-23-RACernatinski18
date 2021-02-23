@@ -1,0 +1,23 @@
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO ssssProgram startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program 111111111111111111111111111startup complete
+2021-02-23 08:40:00 CRITICAL invalid stoi argument
+2021-02-23 08:40:00 INFO Program finish
+2021-02-23 08:40:00 INFO Program startup complete
+2021-02-23 08:40:00 INFO Program finish
